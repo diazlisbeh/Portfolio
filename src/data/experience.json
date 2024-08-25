@@ -1,14 +1,16 @@
 {
   "items": [
     {
+      "id": 1,
       "company": "E&ST",
       "position": "Programmer Analyst",
       "from": "May 2022",
       "to": "Sep 2022",
       "work": [
-        "learned about the importance of quality in software development",
-        "attempted to understand the importance of quality in software development",
-        "created a project management plan"
+        "Automation of an invoicing system using Oracle Forms.",
+        "Identification and resolution of issues in various applications using .NET and PL/SQL.",
+        "Optimization of client search using .NET and Python.",
+        "Implementing CI/CD with Docker."
       ]
     }
   ]

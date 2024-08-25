@@ -1,8 +1,14 @@
 {
   "projects": [
     {
+      "id": 1,
       "name": "FinanceApp",
       "description": "My Personal Finance App"
+    },
+    {
+      "id": 2,
+      "name": "EcommerceApp",
+      "description": "My E-commerce App for shopping"
     }
   ]
 }
