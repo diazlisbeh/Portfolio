@@ -27,12 +27,12 @@ function App() {
               ))}
             </div>
           </ExperienceContainer>
-          <Skills />
           <ProjectContainer>
             {projectData.projects.map((item: Project) => (
               <ProjectItem key={item.id} data={item}></ProjectItem>
             ))}
           </ProjectContainer>
+          <Skills />
           <Contact />
         </main>
         <Footer />

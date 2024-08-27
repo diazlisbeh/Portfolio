@@ -2,13 +2,43 @@
   "projects": [
     {
       "id": 1,
-      "name": "FinanceApp",
-      "description": "My Personal Finance App"
+      "name": "Upload Images",
+      "description": "A small app to upload images to get the link",
+      "tech": [
+        "React",
+        ".NET",
+        "Azure Storage",
+        "SignalR",
+        "TailwindCSS",
+        "Docker"
+      ],
+      "github": "https://github.com/diazlisbeh/image-uploader",
+      "live": "https://image-uploader-two-eosin.vercel.app/"
     },
     {
       "id": 2,
-      "name": "EcommerceApp",
-      "description": "My E-commerce App for shopping"
+      "name": "Ditionary",
+      "description": "A web site to search words in the dictionary",
+      "tech": ["HTML", "CSS", "JavaScript", "API"],
+      "github": "https://github.com/diazlisbeh/Dictionary-app",
+      "live": "https://diazlisbeh.github.io/Dictionary-app/"
+    },
+
+    {
+      "id": 3,
+      "name": "CloudSync",
+      "description": "An informative website",
+      "tech": ["React", "Typescript", "TailwindCSS"],
+      "github": "https://github.com/diazlisbeh/cloudsync",
+      "live": "https://cloudsync1.netlify.app/"
+    },
+    {
+      "id": 4,
+      "name": "ChatGptClon",
+      "description": "A chatgpt clone on local (not in production)",
+      "tech": ["React", "Redux", "TailwindCSS", ".NET", "MongoDB", "Docker"],
+      "github": "https://github.com/diazlisbeh/ChatClon",
+      "live": "https://github.com/diazlisbeh/ChatClon"
     }
   ]
 }
