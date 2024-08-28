@@ -6,7 +6,7 @@ interface ProjectProps {
 
 const ProjectItem: React.FC<ProjectProps> = ({ data }) => {
   return (
-    <div className="bg-bunker-800 bg-opacity-50 p-6 rounded-lg backdrop-blur-sm h-56  hover:scale-105  transition-all duration-300">
+    <div className="bg-bunker-800 bg-opacity-50 p-6 rounded-lg backdrop-blur-sm h-fit  hover:scale-105  transition-all duration-300">
       <div className="flex flex-col items-start">
         <h3 className="text-lg font-semibold mb-2">{data.name}</h3>
         <p>{data.description}</p>
